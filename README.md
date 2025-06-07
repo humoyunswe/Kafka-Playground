@@ -1,5 +1,5 @@
 # Kafka-Playground
 
-> Bu loyiha — Kafka'ga o‘xshash xabar navbat (message queue) tizimini noldan yaratishga urinishdir. 
+> This project is an attempt to build a message queue system similar to Kafka from scratch.
 
 ![Apache-Kafka-icon](/project_photos/apache-kafka.png)
